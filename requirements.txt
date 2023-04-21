@@ -2,4 +2,4 @@ streamlit==0.85.0
 speechrecognition==3.8.1
 newspaper3k==0.2.8
 gtts==2.2.3
-PyAudio==0.2.11
+PyAudio
