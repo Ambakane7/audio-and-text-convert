@@ -2,3 +2,4 @@ streamlit
 speechrecognition
 newspaper3k
 gtts
+PyAudio
