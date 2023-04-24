@@ -4,4 +4,4 @@ newspaper3k
 gtts
 pydub
 ffmpeg
-pyAudio
+pyaudio
